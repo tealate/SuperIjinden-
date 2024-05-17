@@ -1,0 +1,6 @@
+{
+  "deckName" : "サンプルデッキ",
+  "deckFrontCard" : ["card1", "card2", "card3"],
+  "deckMainCard" : ["card4", "card5", "card6"],
+  "deckSideCard" : ["card7", "card8", "card9"]
+}

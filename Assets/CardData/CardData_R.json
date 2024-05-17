@@ -1,27 +1,32 @@
 [
   {
+    "cardName": "ヴォイド",
+    "imagePath": "R/001.png",
+    "attackPower": 8000
+  },
+  {
     "cardName": "上杉謙信",
-    "imagePath": "R/R_001.png",
+    "imagePath": "R/001.png",
     "attackPower": 6000
   },
   {
     "cardName": "源義経",
-    "imagePath": "R/R_002.png",
+    "imagePath": "R/002.png",
     "attackPower": 500
   },
   {
     "cardName": "武田勝頼",
-    "imagePath": "R/R_003.png",
+    "imagePath": "R/003.png",
     "attackPower": 1000
   },
   {
     "cardName": "ヴラド・ツェペシュ",
-    "imagePath": "R/R_004.png",
+    "imagePath": "R/004.png",
     "attackPower": 3000
   },
   {
     "cardName": "坂上田村麻呂",
-    "imagePath": "R/R_005.png",
+    "imagePath": "R/005.png",
     "attackPower": 1000
   }
 ]

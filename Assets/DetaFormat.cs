@@ -13,7 +13,8 @@ namespace DataFormat
     public class DeckData
     {
         public string deckName;
-        public string deckMainCard;
-        public List<string> cardPath;
+        public string[] deckFrontCard;
+        public string[] deckMainCard;
+        public string[] deckSideCard;
     }
 }

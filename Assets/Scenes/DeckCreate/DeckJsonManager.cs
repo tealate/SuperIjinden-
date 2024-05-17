@@ -31,4 +31,18 @@ public class DeckJsonManager : MonoBehaviour
     {
 
     }
+
+    public static string[] GetAllJsonFile(string folderPath)
+    {
+        if (!Directory.Exists(folderPath))
+        {
+            throw new DirectoryNotFoundException($"The folder path '{folderPath}' does not exist.");
+        }
+
+        // フォルダ内のすべてのJSONファイルを取得
+        string[] jsonFiles = Directory.GetFiles(folderPath, "*.json");
+
+        // JSONファイルの数を返す
+        return jsonFiles;
+    }
 }
