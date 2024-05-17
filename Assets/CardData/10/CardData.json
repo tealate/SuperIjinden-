@@ -1,0 +1,72 @@
+[
+  {
+    "cardID": 0,
+    "cardName": "Not Found",
+    "attackPower": 8000
+  },
+  {
+    "cardID": 1,
+    "cardName": "上杉謙信",
+    "attackPower": 6000
+  },
+  {
+    "cardID": 2,
+    "cardName": "源義経",
+    "attackPower": 500
+  },
+  {
+    "cardID": 3,
+    "cardName": "武田勝頼",
+    "attackPower": 1000
+  },
+  {
+    "cardID": 4,
+    "cardName": "ヴラド・ツェペシュ",
+    "attackPower": 3000
+  },
+  {
+    "cardID": 5,
+    "cardName": "坂上田村麻呂",
+    "attackPower": 1000
+  },
+  {
+    "cardID": 6,
+    "cardName": "楠木正成",
+    "attackPower": 2000
+  },
+  {
+    "cardID": 7,
+    "cardName": "ジェームズ・バトラー・ヒコック",
+    "attackPower": 3000
+  },
+  {
+    "cardID": 8,
+    "cardName": "アレクサンドロス大王",
+    "attackPower": 4000
+  },
+  {
+    "cardID": 9,
+    "cardName": "神剣眠る氏社",
+    "attackPower": 5000
+  },
+  {
+    "cardID": 10,
+    "cardName": "連なる天守閣",
+    "attackPower": 6000
+  },
+  {
+    "cardID": 11,
+    "cardName": "ロイヤリティ",
+    "attackPower": 7000
+  },
+  {
+    "cardID": 12,
+    "cardName": "デスペラード",
+    "attackPower": 8000
+  },
+  {
+    "cardID": 13,
+    "cardName": "レッドストーン",
+    "attackPower": 9000
+  }
+]

@@ -1,6 +1,19 @@
 {
-  "deckName" : "サンプルデッキ",
-  "deckFrontCard" : ["card1", "card2", "card3"],
-  "deckMainCard" : ["card4", "card5", "card6"],
-  "deckSideCard" : ["card7", "card8", "card9"]
+  "deckFrontCard" : ["CardData/10/0.png", "CardData/10/6.png", "CardData/10/11.png"],
+  "deckCardPath" : [
+    [2,10,0],
+    [2,10,1],
+    [2,10,2],
+    [2,10,3],
+    [2,10,4],
+    [2,10,5],
+    [2,10,6],
+    [2,10,7],
+    [2,10,8],
+    [2,10,9],
+    [2,10,10],
+    [2,10,11],
+    [2,10,12],
+    [16,10,13]
+                   ]
 }

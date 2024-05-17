@@ -39,14 +39,17 @@ public class DeckJsonManager : MonoBehaviour
             throw new DirectoryNotFoundException($"The folder path '{folderPath}' does not exist.");
         }
 
-        // フォルダ内のすべてのJSONファイルを取得
+        // ?t?H???_?????????JSON?t?@?C???????
         string[] jsonFiles = Directory.GetFiles(folderPath, "*.json");
 
-        // JSONファイルの名前リストを返す
+        // JSON?t?@?C??????O???X?g????
         return jsonFiles;
     }
-    public static void LoadDeckJson(string DeckPath,DataFormat.DeckData Deck)
+    public static bool LoadDeckJson(string deckPath, DataFormat.DeckData deck)
     {
-        
+        if (!File.Exists(deckPath))return false;
+        string json = File.ReadAllText(deckPath);
+        JsonUtility.FromJsonOverwrite(json, deck);
+        return true;
     }
 }
