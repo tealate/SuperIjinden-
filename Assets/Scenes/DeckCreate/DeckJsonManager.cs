@@ -42,7 +42,11 @@ public class DeckJsonManager : MonoBehaviour
         // フォルダ内のすべてのJSONファイルを取得
         string[] jsonFiles = Directory.GetFiles(folderPath, "*.json");
 
-        // JSONファイルの数を返す
+        // JSONファイルの名前リストを返す
         return jsonFiles;
+    }
+    public static void LoadDeckJson(string DeckPath,DataFormat.DeckData Deck)
+    {
+        
     }
 }
