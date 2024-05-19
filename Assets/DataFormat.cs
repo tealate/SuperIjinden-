@@ -15,7 +15,7 @@ namespace DataFormat
         //フリガナ
         public int attackPower;
 
-        public CardColor cardColor;
+        public List<CardColor> cardColor;
         public CardType cardType;
         public int cardLevel;
         public int cardCost;
@@ -35,7 +35,15 @@ namespace DataFormat
         Red,
         Blue,
         Green,
-        Yellow
+        Yellow,
+        Purple,
+        White,
+        Black,
+        Colorless,
+        Rainbow,
+        Gold,
+        Silver,
+        Bronze
     }
     public enum CardType
     {
@@ -43,13 +51,6 @@ namespace DataFormat
         Mahou,
         Haikei,
         Maryoku
-    }
-    public enum Tokusei
-    {
-        None,
-        Kenjyutu,
-        Ongaku,
-        Bijyutu
     }
 
     public enum TagAbility
