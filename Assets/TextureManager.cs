@@ -16,8 +16,9 @@ public class TextureManager : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
-        }
+        }//v
         else
+        // {‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ‚ˆ
         {
             Destroy(gameObject);
         }
