@@ -15,9 +15,18 @@ public class TextureManager : MonoBehaviour
         public int spriteRefCount;
         public List<SpriteRenderer> spriteRenderers;
     }
+
+    public static void CopyValues(ref AsyncSpriteLoad source, ref AsyncSpriteLoad target)
+    {
+        target.sprite = source.sprite;
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作成
+        target.spriteRefCount = source.spriteRefCount;
+        target.spriteRenderers = new List<SpriteRenderer>(source.spriteRenderers); // 値渡しを行うため、新しいリストを作成
+    }
     public static TextureManager Instance { get; private set; }
     public List<Sprite> tempSpriteList = new List<Sprite>();
     public List<AsyncSpriteLoad> asyncSpriteLoadList = new List<AsyncSpriteLoad>();
+
 
     public List<int> NotRefIndex = new List<int>();
     public int maxLoadCountMax = 100;
@@ -39,7 +48,9 @@ public class TextureManager : MonoBehaviour
             asyncSpriteLoadList.Add(new AsyncSpriteLoad());
         }
     }
-
+    void Update()
+    {
+    }
     void LateUpdate()
     {
         if (FindIndexTask.Count > 0)
@@ -57,12 +68,20 @@ public class TextureManager : MonoBehaviour
 
         public int colorCode;
     }
+
+    public static void CopyValues(ref SpriteLoadTask source, ref SpriteLoadTask target)
+    {
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作成
+        target.spriteRenderer = source.spriteRenderer;
+        target.spriteIndex = source.spriteIndex;
+        target.colorCode = source.colorCode;
+    }
     private List<SpriteLoadTask> FindIndexTask = new List<SpriteLoadTask>();
 
     public void AttachSpriteOfIndex(SpriteRenderer spriteRenderer, List<int> texturePath, CardColor cardColor)
     {
         spriteRenderer.sprite = tempSpriteList[cardColor.GetHashCode()];
-        FindIndexTask.Add(new SpriteLoadTask { texturePath = texturePath, spriteRenderer = spriteRenderer, colorCode = cardColor.GetHashCode() });
+        FindIndexTask.Add(new SpriteLoadTask { texturePath = new List<int>(texturePath), spriteRenderer = spriteRenderer, colorCode = cardColor.GetHashCode() });
     }
 
     public IEnumerator FindSprite(List<SpriteLoadTask> NowTask)
@@ -83,21 +102,31 @@ public class TextureManager : MonoBehaviour
                     asyncSpriteLoadList[NotRefIndex[0]] = newLoad;
                     loadTaskIndex.Add(NotRefIndex[0]);
                     NotRefIndex.RemoveAt(0);
+                    var existingLoad = asyncSpriteLoadList[NotRefIndex[0]];
+                    existingLoad = newLoad;
+                    asyncSpriteLoadList[NotRefIndex[0]] = existingLoad;
                 }
                 else
                 {
                     FindIndexOfNotRef(asyncSpriteLoadList);
+                    Debug.Log("Okasii");
                     if (NotRefIndex.Count != 0)
                     {
                         asyncSpriteLoadList[NotRefIndex[0]] = newLoad;
                         loadTaskIndex.Add(NotRefIndex[0]);
                         NotRefIndex.RemoveAt(0);
+                        var existingLoad = asyncSpriteLoadList[NotRefIndex[0]];
+                        existingLoad = newLoad;
+                        asyncSpriteLoadList[NotRefIndex[0]] = existingLoad;
                     }
                     else
                     {
                         asyncSpriteLoadList.Add(newLoad);
                         loadTaskIndex.Add(asyncSpriteLoadList.Count - 1);
                         NotRefIndex.Add(asyncSpriteLoadList.Count - 1);
+                        var existingLoad = asyncSpriteLoadList[NotRefIndex[0]];
+                        existingLoad = newLoad;
+                        asyncSpriteLoadList[NotRefIndex[0]] = existingLoad;
                     }
                 }
                 NowTask[i].spriteRenderer.sprite = tempSpriteList[NowTask[i].colorCode];
@@ -110,7 +139,7 @@ public class TextureManager : MonoBehaviour
                 load.spriteRenderers.Add(NowTask[i].spriteRenderer);
                 asyncSpriteLoadList[index] = load;
                 NowTask[i].spriteRenderer.sprite = asyncSpriteLoadList[index].sprite;
-                NowTask.RemoveAt(i);
+                //NowTask.RemoveAt(i);
                 Debug.Log("Sprite Found");
             }
         }
@@ -207,7 +236,7 @@ public class TextureManager : MonoBehaviour
             if (nestedList[i].texturePath.Count != targetSequence.Count) continue;
             if (nestedList[i].texturePath.SequenceEqual(targetSequence))
             {
-                Debug.Log("Found");
+                Debug.Log("Found" + i);
                 return i;
             }
         }
@@ -223,6 +252,11 @@ public class TextureManager : MonoBehaviour
             for (int j = 0; j < nestedList[i].spriteRenderers.Count; j++)
             {
                 if (nestedList[i].spriteRenderers[j] == null)
+                {
+                    load.spriteRefCount -= 1;
+                    load.spriteRenderers.RemoveAt(j);
+                }
+                else if(nestedList[i].spriteRenderers[j].sprite != load.spriteRenderers[j].sprite)
                 {
                     load.spriteRefCount -= 1;
                     load.spriteRenderers.RemoveAt(j);

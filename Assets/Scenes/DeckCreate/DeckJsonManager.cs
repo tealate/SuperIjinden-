@@ -7,14 +7,25 @@ public class DeckJsonManager : MonoBehaviour
 {
     string DeckDataPass;
     string CardDataPass;
-    string CardJsonPass;
+
+    public List<string> DeckJsonFiles = new List<string>();
+    public DeckJsonManager Instance { get; private set; }
     // Start is called before the first frame update
 
     private void Awake()
     {
         DeckDataPass = Application.dataPath + "/" + "DeckData";
         CardDataPass = Application.dataPath + "/" + "CardData";
-        CardJsonPass = Application.dataPath + "/" + "CardData" + "CardData.json";
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+            DeckJsonFiles = new List<string>(GetAllJsonFile(DeckDataPass));
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
     void Start()
     {
@@ -31,12 +42,23 @@ public class DeckJsonManager : MonoBehaviour
 
     }
 
+    public void RenameDeck()
+    {
+
+    }
+
+    public void DeleteDeck()
+    {
+
+    }
+
+    public void LoadDeck()
+    {
+
+    }
+
     public static string[] GetAllJsonFile(string folderPath)
     {
-        if (!Directory.Exists(folderPath))
-        {
-            throw new DirectoryNotFoundException($"The folder path '{folderPath}' does not exist.");
-        }
 
         // ?t?H???_?????????JSON?t?@?C???????
         string[] jsonFiles = Directory.GetFiles(folderPath, "*.json");
