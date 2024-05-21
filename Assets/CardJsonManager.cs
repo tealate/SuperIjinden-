@@ -37,7 +37,7 @@ public class CardJsonManager : MonoBehaviour
     }
     void Start()
     {
-        Debug.Log(CardDatas[10][1].cardName);
+        //Debug.Log(CardDatas[10][1].cardName);
     }
 
     // Update is called once per frame
