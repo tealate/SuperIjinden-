@@ -5,6 +5,8 @@ using UnityEngine;
 using DataFormat;
 using System.Linq;
 using System.Text.RegularExpressions;
+//コルーチン、シングルトン
+//デッキのjsonファイルの管理、メモリでの保存をするやつ
 public class DeckJsonManager : MonoBehaviour
 {
     //deckName以外はjsonファイルを信用する,deckNameはファイル名から取得する

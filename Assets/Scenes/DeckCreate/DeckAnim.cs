@@ -12,8 +12,9 @@ public class DeckAnim : MonoBehaviour
     public GameObject[] deckFrontCard;
     public SpriteRenderer[] deckFrontCardSprite;
     public DeckData deckData;
+    public DeckInfoManager Myparant;
 
-    public TMP_InputField NameText;
+    public TextMeshProUGUI NameText;
     // Start is called before the first frame update
     void Awake()
     {
@@ -22,7 +23,7 @@ public class DeckAnim : MonoBehaviour
         Vector3 scale = deckCardInst.transform.localScale;
         for(int i = 0; i < 3; i++)
         {
-            deckFrontCard[i] = Instantiate(deckCardInst, transform.TransformPoint(new Vector3((i-1)*4, -1, i*0.1f)), Quaternion.identity, transform);
+            deckFrontCard[i] = Instantiate(deckCardInst, transform.TransformPoint(new Vector3((i-1)*4, -1, i*-0.1f)), Quaternion.identity, transform);
             deckFrontCard[i].transform.localScale = scale * 1.5f;
             deckFrontCardSprite[i] = deckFrontCard[i].GetComponent<SpriteRenderer>();
         }
@@ -59,10 +60,11 @@ public class DeckAnim : MonoBehaviour
 
     public void RenameDeck()
     {
-        Debug.Log("RenameDeck" + NameText.text);
+        //Debug.Log("RenameDeck" + NameText.text);
         if(DeckJsonManager.Instance.IsValidFileName(NameText.text).Count() > 0)
         {
             //後で警告出す処理実装しろ
+            NameText.text = deckData.deckName;
             return;
         }
         if(deckData.deckName != NameText.text)deckData.deckName = DeckJsonManager.Instance.RenameDeck(deckData.deckName, NameText.text);
@@ -72,6 +74,13 @@ public class DeckAnim : MonoBehaviour
     void Update()
     {
 
+    }
+
+    public void PressButton()
+    {
+        Debug.Log("PressButton");
+        Myparant.ActiveDeck = deckData;
+        Myparant.SelectDeck();
     }
 
     public void DebugMan()

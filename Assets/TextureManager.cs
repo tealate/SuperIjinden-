@@ -19,9 +19,9 @@ public class TextureManager : MonoBehaviour
     public static void CopyValues(ref AsyncSpriteLoad source, ref AsyncSpriteLoad target)
     {
         target.sprite = source.sprite;
-        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作成
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
         target.spriteRefCount = source.spriteRefCount;
-        target.spriteRenderers = new List<SpriteRenderer>(source.spriteRenderers); // 値渡しを行うため、新しいリストを作成
+        target.spriteRenderers = new List<SpriteRenderer>(source.spriteRenderers); // 値渡しを行うため、新しいリストを作�??
     }
     public static TextureManager Instance { get; private set; }
     public List<Sprite> tempSpriteList = new List<Sprite>();
@@ -71,7 +71,7 @@ public class TextureManager : MonoBehaviour
 
     public static void CopyValues(ref SpriteLoadTask source, ref SpriteLoadTask target)
     {
-        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作成
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
         target.spriteRenderer = source.spriteRenderer;
         target.spriteIndex = source.spriteIndex;
         target.colorCode = source.colorCode;
@@ -109,7 +109,6 @@ public class TextureManager : MonoBehaviour
                 else
                 {
                     FindIndexOfNotRef(asyncSpriteLoadList);
-                    Debug.Log("Okasii");
                     if (NotRefIndex.Count != 0)
                     {
                         asyncSpriteLoadList[NotRefIndex[0]] = newLoad;
@@ -130,7 +129,6 @@ public class TextureManager : MonoBehaviour
                     }
                 }
                 NowTask[i].spriteRenderer.sprite = tempSpriteList[NowTask[i].colorCode];
-                Debug.Log("Sprite Not Found");
             }
             else
             {
@@ -139,11 +137,8 @@ public class TextureManager : MonoBehaviour
                 load.spriteRenderers.Add(NowTask[i].spriteRenderer);
                 asyncSpriteLoadList[index] = load;
                 NowTask[i].spriteRenderer.sprite = asyncSpriteLoadList[index].sprite;
-                //NowTask.RemoveAt(i);
-                Debug.Log("Sprite Found");
             }
         }
-        Debug.Log(loadTaskIndex.Count);
         if (loadTaskIndex.Count != 0)
         {
             StartCoroutine(LoadAllSpritesAsync(new List<int>(loadTaskIndex), 512));
@@ -155,7 +150,6 @@ public class TextureManager : MonoBehaviour
     {
         string path = Application.dataPath + "/CardData";
         string path2;
-        Debug.Log("LoadAllSpritesAsync");
         for (int i = 0; i < loadTaskList.Count; i++)
         {
             path2 = path;
@@ -236,7 +230,6 @@ public class TextureManager : MonoBehaviour
             if (nestedList[i].texturePath.Count != targetSequence.Count) continue;
             if (nestedList[i].texturePath.SequenceEqual(targetSequence))
             {
-                Debug.Log("Found" + i);
                 return i;
             }
         }
