@@ -1,0 +1,17 @@
+{
+    "cardID": 5,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "阿倍仲麻呂",
+    "cardLevel": 4,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "「航海」が発動したとき、1ドローして、これを起こす。",
+    "cardIgyoo": [],
+    "illustraterName": "でめこ",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

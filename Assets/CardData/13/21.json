@@ -1,0 +1,19 @@
+{
+    "cardID": 21,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "鑑真",
+    "cardLevel": 2,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、1ドローして、これを破壊する。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

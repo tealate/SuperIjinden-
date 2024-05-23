@@ -1,0 +1,19 @@
+{
+    "cardID": 13,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "グリーンストーン",
+    "cardLevel": 1,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "※ デッキに何枚でも入れてよい。",
+    "cardIgyoo": [
+        "復元"
+    ],
+    "illustraterName": "Smilé",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

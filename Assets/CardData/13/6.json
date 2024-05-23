@@ -1,0 +1,19 @@
+{
+    "cardID": 6,
+    "cardRarity": "SR",
+    "cordColor": "Green",
+    "cardName": "紫式部",
+    "cardLevel": 8,
+    "attackPower": 6000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれるたび、相手の戦場のイジン1体を裏にして魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "でめこ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

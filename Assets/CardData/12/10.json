@@ -1,0 +1,19 @@
+{
+    "cardID": 10,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "毘盧遮那仏像",
+    "cardLevel": 6,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "これが戦場にある間、自分の戦場のイジンは「パワー+1000」を得る。\n \n自分のエンドフェイズが開始したとき、自分の戦場のカードすべてを起こす。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "No2_Hase",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

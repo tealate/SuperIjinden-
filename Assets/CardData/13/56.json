@@ -1,0 +1,19 @@
+{
+    "cardID": 56,
+    "cardRarity": "R",
+    "cordColor": "Blue",
+    "cardName": "リバイバル",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の墓地のレベル6以下のイジン1体か、自分の墓地のレベル5以下のハイケイ1つを指定して発動できる。そのイジンかハイケイを手札に戻す。自分の戦場に「美術」イジンがいるなら、手札に戻す代わりに戦場に置いてもよい。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": ""
+}

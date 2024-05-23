@@ -1,0 +1,19 @@
+{
+    "cardID": 3,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "好太王",
+    "cardLevel": 2,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "パワー1000以下のイジンにブロックされない。\n \nブロッカーになれない。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Loce",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

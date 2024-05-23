@@ -1,0 +1,17 @@
+{
+    "cardID": 8,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "楊貴妃",
+    "cardLevel": 5,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の戦場のイジン1体を破壊して発動できる。3ドローする。\n \n 自分の手札が5枚以上の間「イジンにブロックされない」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

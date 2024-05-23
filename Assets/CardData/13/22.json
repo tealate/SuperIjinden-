@@ -1,0 +1,19 @@
+{
+    "cardID": 22,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ジャンヌ・ダルク",
+    "cardLevel": 2,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の山札の上から3枚を墓地に置く。\n \n破壊されたとき、自分の手札1枚を墓地に置く。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "もろろす",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

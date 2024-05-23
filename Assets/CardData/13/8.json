@@ -1,0 +1,19 @@
+{
+    "cardID": 8,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "明智光秀",
+    "cardLevel": 2,
+    "attackPower": 3000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "即応（戦場に置かれたターンでもアタッカーになれる）\n \n戦場に置かれたとき、自分の戦場のガーディアン1体を山札の上に戻す。",
+    "cardIgyoo": [],
+    "illustraterName": "でめこ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,17 @@
+{
+    "cardID": 62,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ウォーターポット",
+    "cardLevel": 1,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "魔力ゾーンに置かれたとき、1ドローする。",
+    "cardIgyoo": [],
+    "illustraterName": "もろろす",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

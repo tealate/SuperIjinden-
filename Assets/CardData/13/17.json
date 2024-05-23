@@ -1,0 +1,17 @@
+{
+    "cardID": 17,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "藤原道長",
+    "cardLevel": 5,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の魔力ゾーンのマリョク1色につき、自分の墓地のマホウ1つを手札に戻す。",
+    "cardIgyoo": [],
+    "illustraterName": "Namiki",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

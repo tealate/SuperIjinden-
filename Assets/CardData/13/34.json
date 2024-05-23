@@ -1,0 +1,21 @@
+{
+    "cardID": 34,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "狩野永徳",
+    "cardLevel": 2,
+    "attackPower": 2000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、戦場に「剣術」イジンがいるなら発動する。1ドローする。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "実範",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

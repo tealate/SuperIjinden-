@@ -1,0 +1,17 @@
+{
+    "cardID": 26,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "メアリー1世",
+    "cardLevel": 3,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、相手の手札を見てマリョクでないカード1つを墓地に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

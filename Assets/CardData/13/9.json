@@ -1,0 +1,21 @@
+{
+    "cardID": 9,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "藤原純友",
+    "cardLevel": 2,
+    "attackPower": 1000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "航海 - アタッカーになったとき、相手の戦場のハイケイ1つを破壊する。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

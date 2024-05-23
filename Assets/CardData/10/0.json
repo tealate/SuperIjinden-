@@ -1,5 +1,13 @@
 {
     "cardID": 0,
     "cardName": "Not Found",
-    "attackPower": 8000
-  }
+    "isOffical": true,
+    "cardType": "Ijin",
+    "cardLevel" : 0,
+    "cardCost": 0,
+    "cardTokusei": ["None"],
+    "cardIgyoo": ["None"],
+    "attackPower": 8000,
+    "cordColor": "Green",
+    "cardText": "なーんもないよ！"
+}

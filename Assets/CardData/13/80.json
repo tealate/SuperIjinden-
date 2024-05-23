@@ -1,0 +1,19 @@
+{
+    "cardID": 80,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "角倉了以",
+    "cardLevel": 6,
+    "attackPower": 6000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "「航海」が発動したとき、相手の戦場のガーディアン1体を裏のまま魔力ゾーンに置く。",
+    "cardIgyoo": [],
+    "illustraterName": "hami",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

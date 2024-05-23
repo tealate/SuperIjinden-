@@ -1,0 +1,19 @@
+{
+    "cardID": 2,
+    "cardRarity": "SR",
+    "cordColor": "Red",
+    "cardName": "クレオパトラ",
+    "cardLevel": 5,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたときに発動できる。戦場のハイケイすべてを破壊する。\n \nハイケイが破壊されるたび、1ドローする。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Smilé",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

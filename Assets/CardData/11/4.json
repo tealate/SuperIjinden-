@@ -1,0 +1,17 @@
+{
+    "cardID": 4,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "フェルディナンド・マゼラン",
+    "cardLevel": 3,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、相手の手札のカード1つを墓地に置く。そのカードは相手が選ぶ。",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

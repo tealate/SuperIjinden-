@@ -1,0 +1,21 @@
+{
+    "cardID": 75,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "衛青",
+    "cardLevel": 4,
+    "attackPower": 3000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "戦場に置かれたとき、自分の戦場のイジンが2体以下なら発動する。1ドローして、イジン召喚権+1する。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Loce",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

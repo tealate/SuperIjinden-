@@ -1,0 +1,19 @@
+{
+    "cardID": 77,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "乾隆帝",
+    "cardLevel": 2,
+    "attackPower": 3000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "-",
+    "cardIgyoo": [],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

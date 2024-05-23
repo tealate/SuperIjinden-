@@ -1,0 +1,21 @@
+{
+    "cardID": 10,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "徳川家康",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "戦場に置かれたとき、イジン召喚権+1する。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

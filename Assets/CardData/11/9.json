@@ -1,0 +1,19 @@
+{
+    "cardID": 9,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "モナ・リザ",
+    "cardLevel": 2,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "特性：美術\n \n自分のメインフェイズが開始したとき、手札の「美術」カード1つを墓地に置いて発動できる。1ドローする。",
+    "cardIgyoo": [
+        "これを手札に戻す。"
+    ],
+    "illustraterName": "Smilé",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

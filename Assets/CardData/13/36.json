@@ -1,0 +1,19 @@
+{
+    "cardID": 36,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "吉田兼好",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれたとき、そのハイケイがこのターンで2つ目に置かれたハイケイなら発動できる。そのハイケイ1つを裏にして魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

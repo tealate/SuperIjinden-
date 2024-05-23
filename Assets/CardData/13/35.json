@@ -1,0 +1,19 @@
+{
+    "cardID": 35,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "安倍晴明",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のガーディアン1体につき「パワー+500」を得る。\n \n破壊されたとき、自分の戦場のガーディアン1体を墓地に置いて発動できる。これを破壊されていない状態にする。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "Minamoto・I・I",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,21 @@
+{
+    "cardID": 23,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ドナテッロ",
+    "cardLevel": 2,
+    "attackPower": 2000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、1ドローして、自分の手札1枚を墓地に置く。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

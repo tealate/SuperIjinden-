@@ -1,0 +1,19 @@
+{
+    "cardID": 44,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "ルートヴィヒ・ヴァン・ベートーヴェン",
+    "cardLevel": 6,
+    "attackPower": 4000,
+    "cardTokusei": [
+        "音楽"
+    ],
+    "cardText": "戦場に名前の異なる「音楽」カードが3つ以上ある間、相手は墓地のカードを手札に戻すことができない。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

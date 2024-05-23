@@ -1,0 +1,19 @@
+{
+    "cardID": 64,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "羅針盤",
+    "cardLevel": 1,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "イジン召喚によって「航海」を持つイジンが自分の戦場に置かれる際、魔力ゾーンに置かれているこれを、そのイジンに装備させてもよい。\n\n装備（装備しているカードにルールテキストを加える）: 破壊されたとき、自分の魔力ゾーンのマリョク1つを墓地に置いて発動できる。これを破壊されていない状態にする。",
+    "cardIgyoo": [
+        "復元"
+    ],
+    "illustraterName": "Loce",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

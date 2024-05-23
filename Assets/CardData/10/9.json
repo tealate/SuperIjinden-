@@ -1,0 +1,19 @@
+{
+    "cardID": 9,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "神剣眠る氏社",
+    "cardLevel": 2,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場の赤のイジンが破壊されるたびに発動できる。そのイジン1体を裏にして魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "hami",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

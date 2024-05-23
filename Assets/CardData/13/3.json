@@ -1,0 +1,19 @@
+{
+    "cardID": 3,
+    "cardRarity": "SR",
+    "cordColor": "Blue",
+    "cardName": "マルティン・ルター",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "相手はマホウ使用に際し、魔力ゾーンの裏のカードを墓地に置くことができない。\n \n相手のターンの間「パワー+3000」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

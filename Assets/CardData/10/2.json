@@ -1,5 +1,21 @@
 {
     "cardID": 2,
+    "cardRarity": "C",
+    "cordColor": "Red",
     "cardName": "源義経",
-    "attackPower": 500
-  }
+    "cardLevel": 1,
+    "attackPower": 500,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "即応（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "Smilé",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

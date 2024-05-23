@@ -1,0 +1,19 @@
+{
+    "cardID": 45,
+    "cardRarity": "R",
+    "cordColor": "Green",
+    "cardName": "行基",
+    "cardLevel": 7,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、イジン召喚権+1して、自分の戦場のハイケイ1つにつき1ドローする。\n \nこれが戦場にいる間、自分の戦場のハイケイは破壊されない。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Namiki",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -68,6 +68,7 @@ public class DeckAnim : MonoBehaviour
             return;
         }
         if(deckData.deckName != NameText.text)deckData.deckName = DeckJsonManager.Instance.RenameDeck(deckData.deckName, NameText.text);
+        Myparant.ReloadPreview();
     }
 
     // Update is called once per frame

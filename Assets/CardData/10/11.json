@@ -1,0 +1,19 @@
+{
+    "cardID": 11,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ロイヤリティ",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場の「剣術」イジン1体を破壊するか、自分の戦場のガーディアン1体を山札の上に戻す。3ドローする。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "hami",
+    "set": "伝説の武将デッキ",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": "R-"
+}

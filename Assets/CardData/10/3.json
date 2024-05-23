@@ -1,5 +1,21 @@
 {
     "cardID": 3,
+    "cardRarity": "C",
+    "cordColor": "Red",
     "cardName": "武田勝頼",
-    "attackPower": 1000
-  }
+    "cardLevel": 2,
+    "attackPower": 1000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "アタック+2000",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Xion",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

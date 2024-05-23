@@ -1,0 +1,19 @@
+{
+    "cardID": 2,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ヴァスコ・ダ・ガマ",
+    "cardLevel": 1,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、1ドローして、自分の手札1枚を墓地に置く。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "実範",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

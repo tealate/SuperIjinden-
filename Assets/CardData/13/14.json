@@ -1,0 +1,19 @@
+{
+    "cardID": 14,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ジョージ・アームストロング・カスター",
+    "cardLevel": 4,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "即応（戦場に置かれたターンでもアタッカーになれる）\n \nこれが戦場にいる間「即応」を持つ自分の戦場のイジンは「アタック+1000」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

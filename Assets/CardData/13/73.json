@@ -1,0 +1,21 @@
+{
+    "cardID": 73,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "グスタフ2世アドルフ",
+    "cardLevel": 4,
+    "attackPower": 2000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "イジンが相手の戦場に置かれる際、そのイジンは寝ている状態で戦場に置かれる。\n \nブロック+2000",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Unknown",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

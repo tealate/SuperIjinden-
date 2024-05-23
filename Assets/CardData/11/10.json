@@ -1,0 +1,19 @@
+{
+    "cardID": 10,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "革命の広場",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "イジンが破壊されるたび、1ドローする。\n \n自分のメインフェイズが開始したとき、自分の戦場のイジン1体を指定して発動できる。そのイジンを破壊する。",
+    "cardIgyoo": [
+        "これを手札に戻す。"
+    ],
+    "illustraterName": "Loce",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

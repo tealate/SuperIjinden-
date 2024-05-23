@@ -1,0 +1,19 @@
+{
+    "cardID": 4,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "紀貫之",
+    "cardLevel": 2,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれたとき、これを裏にして魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "でめこ",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

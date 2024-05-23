@@ -1,0 +1,17 @@
+{
+    "cardID": 9,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "阿弥陀堂",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分のメインフェイズが開始したとき、自分の戦場のカード1つか、自分の魔力ゾーンのカード1つを指定して発動できる。そのカードを手札に戻す。",
+    "cardIgyoo": [],
+    "illustraterName": "詩野",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

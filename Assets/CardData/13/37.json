@@ -1,0 +1,19 @@
+{
+    "cardID": 37,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "蘆屋道満",
+    "cardLevel": 4,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "ガーディアンが戦場に置かれる際、寝ている状態で戦場に置かれる。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

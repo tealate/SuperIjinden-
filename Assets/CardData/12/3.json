@@ -1,0 +1,19 @@
+{
+    "cardID": 3,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "アテルイ",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "「剣術」イジンが戦場に置かれたとき、これを起こす。\n \nアタック+1000",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "堀美芙夕",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

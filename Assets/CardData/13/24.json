@@ -1,0 +1,19 @@
+{
+    "cardID": 24,
+    "cardRarity": "R",
+    "cordColor": "Blue",
+    "cardName": "孔子",
+    "cardLevel": 3,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "ガーディアンが自分の戦場に置かれるたび、相手の戦場のガーディアン1体を寝かせる。\n \nこれが戦場にいる間、自分の戦場のイジンは「ブロック+1000」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Minamoto・I・I",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

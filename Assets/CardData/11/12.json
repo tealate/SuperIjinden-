@@ -1,0 +1,19 @@
+{
+    "cardID": 12,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ドローイング",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "2ドローする。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "Loce",
+    "set": "知と美の革命デッキ",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": "B"
+}

@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using DataFormat;
 using Unity.VisualScripting;
+//using System.Text.Json;
 
 public class TextureManager : MonoBehaviour
 {
@@ -19,13 +20,15 @@ public class TextureManager : MonoBehaviour
     public static void CopyValues(ref AsyncSpriteLoad source, ref AsyncSpriteLoad target)
     {
         target.sprite = source.sprite;
-        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
         target.spriteRefCount = source.spriteRefCount;
-        target.spriteRenderers = new List<SpriteRenderer>(source.spriteRenderers); // 値渡しを行うため、新しいリストを作�??
+        target.spriteRenderers = new List<SpriteRenderer>(source.spriteRenderers); // 値渡しを行うため、新しいリストを作�??
     }
     public static TextureManager Instance { get; private set; }
     public List<Sprite> tempSpriteList = new List<Sprite>();
     public List<AsyncSpriteLoad> asyncSpriteLoadList = new List<AsyncSpriteLoad>();
+
+    public Sprite NotFoundSprite;
 
 
     public List<int> NotRefIndex = new List<int>();
@@ -71,7 +74,7 @@ public class TextureManager : MonoBehaviour
 
     public static void CopyValues(ref SpriteLoadTask source, ref SpriteLoadTask target)
     {
-        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
+        target.texturePath = new List<int>(source.texturePath); // 値渡しを行うため、新しいリストを作�??
         target.spriteRenderer = source.spriteRenderer;
         target.spriteIndex = source.spriteIndex;
         target.colorCode = source.colorCode;
@@ -182,11 +185,19 @@ public class TextureManager : MonoBehaviour
             else
             {
                 Debug.LogError("Failed to create texture from file data at path: " + path);
+                for (int i = 0; i < asyncSpriteLoadList[index].spriteRenderers.Count; i++)
+                {
+                    asyncSpriteLoadList[index].spriteRenderers[i].sprite = NotFoundSprite;
+                }
             }
         }
         else
         {
             Debug.LogError("File does not exist at path: " + path);
+            for (int i = 0; i < asyncSpriteLoadList[index].spriteRenderers.Count; i++)
+            {
+                asyncSpriteLoadList[index].spriteRenderers[i].sprite = NotFoundSprite;
+            }
         }
         yield return null;
     }

@@ -1,0 +1,19 @@
+{
+    "cardID": 12,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "ギャザリング",
+    "cardLevel": 5,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のガーディアンすべてを手札に戻す。自分の山札の上から2枚をガーディアンにして戦場に置く。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "よしいつき",
+    "set": "日本の大天才デッキ",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": "G"
+}

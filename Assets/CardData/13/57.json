@@ -1,0 +1,19 @@
+{
+    "cardID": 57,
+    "cardRarity": "R",
+    "cordColor": "Green",
+    "cardName": "エイジング",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "相手の戦場のイジン1体を指定して発動できる。そのイジンを裏にして魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 2,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": ""
+}

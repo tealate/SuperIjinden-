@@ -1,0 +1,19 @@
+{
+    "cardID": 1,
+    "cardRarity": "SR",
+    "cordColor": "Green",
+    "cardName": "出雲の阿国",
+    "cardLevel": 5,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の戦場のカードすべてを起こす。\n \n破壊されたとき、自分の魔力ゾーンのマリョク1つを裏にして発動できる。これを破壊されていない状態にする。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "木志田コテツ",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

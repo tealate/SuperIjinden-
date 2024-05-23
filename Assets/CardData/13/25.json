@@ -1,0 +1,17 @@
+{
+    "cardID": 25,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "始皇帝",
+    "cardLevel": 5,
+    "attackPower": 5000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の魔力ゾーンのマリョク1つを裏にして発動できる。相手の魔力ゾーンのマリョク1つを裏にする。\n \nこれが戦場にいる間「執筆」は発動しない。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

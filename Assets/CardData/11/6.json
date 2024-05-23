@@ -1,0 +1,19 @@
+{
+    "cardID": 6,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ジャン・カルヴァン",
+    "cardLevel": 2,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "メインフェイズが開始したとき、自分の魔力ゾーンのマリョク1つを裏にして発動できる。このターンの間「執筆」は発動しない。\n \n相手のターンの間「パワー+2000」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "実範",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

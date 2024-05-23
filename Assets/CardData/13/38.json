@@ -1,0 +1,17 @@
+{
+    "cardID": 38,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "鴨長明",
+    "cardLevel": 4,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "これのイジン召喚に際し、自分の戦場にイジンがいなければ、これはレベル2になる。\n \n執筆 - この能力はターンに1回しか発動しない。ハイケイが戦場に置かれたときに発動できる。そのハイケイ1つを裏にしてガーディアンにする。",
+    "cardIgyoo": [],
+    "illustraterName": "でめこ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

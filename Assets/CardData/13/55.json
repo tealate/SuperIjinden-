@@ -1,0 +1,19 @@
+{
+    "cardID": 55,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ストーム",
+    "cardLevel": 2,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "戦場のイジン1体を指定して発動できる。そのイジンを手札に戻す。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "Smilé",
+    "set": "ブースター",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": ""
+}

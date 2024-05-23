@@ -1,0 +1,17 @@
+{
+    "cardID": 8,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "アレクサンドロス大王",
+    "cardLevel": 6,
+    "attackPower": 6000,
+    "cardTokusei": [],
+    "cardText": "即応（戦場に置かれたターンでもアタッカーになれる）\n \nアタッカーになったとき、アタッカー1体につき相手の戦場のハイケイ1つを破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "ナカニシイクシ",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

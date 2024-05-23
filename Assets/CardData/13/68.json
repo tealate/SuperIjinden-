@@ -1,0 +1,19 @@
+{
+    "cardID": 68,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "万葉集",
+    "cardLevel": 1,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "イジン召喚によって「執筆」を持つイジンが自分の戦場に置かれる際、魔力ゾーンに置かれているこれを、そのイジンに装備させてもよい。\n \n装備（装備しているカードにルールテキストを加える）: これが戦場にいる間、自分の魔力ゾーンの合計レベル+2する。",
+    "cardIgyoo": [
+        "復元"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,19 @@
+{
+    "cardID": 11,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "グロウ",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の山札の上から1枚を、裏のまま魔力ゾーンに置く。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "Xion",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

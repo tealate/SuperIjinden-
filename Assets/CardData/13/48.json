@@ -1,0 +1,17 @@
+{
+    "cardID": 48,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "円形闘技場",
+    "cardLevel": 5,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分のターンの間、自分の戦場のガーディアンは「即応」を持つパワー3000のイジンでもある。\n（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

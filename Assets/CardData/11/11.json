@@ -1,0 +1,17 @@
+{
+    "cardID": 11,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "フリート",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "このターンのバトル解決に際し、アタッカーは破壊されない。\n \nこのターンの間「航海」を持つ戦場のイジンは「アタック+2000」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "Loce",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

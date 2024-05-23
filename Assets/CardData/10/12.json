@@ -1,0 +1,19 @@
+{
+    "cardID": 12,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "デスペラード",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のイジン1体と相手の戦場のガーディアン1体を指定して発動できる。そのイジンとガーディアンを破壊する。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "hami",
+    "set": "伝説の武将デッキ",
+    "cardCost": 1,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": "R-"
+}

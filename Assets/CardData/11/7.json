@@ -1,0 +1,17 @@
+{
+    "cardID": 7,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "武帝",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のイジン1体につき「パワー+1000」を得る。\n \nパワー5000以上の間「ダブルプレッシャー」を得る。（2体以上からでなければブロックされない）",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

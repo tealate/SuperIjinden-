@@ -1,0 +1,21 @@
+{
+    "cardID": 6,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "葛飾北斎",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、自分の墓地のハイケイ1つか2つを指定して発動できる。それらのハイケイすべてを手札に戻す。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "蒼ノ樹",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

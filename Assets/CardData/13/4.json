@@ -1,0 +1,17 @@
+{
+    "cardID": 4,
+    "cardRarity": "SR",
+    "cordColor": "Blue",
+    "cardName": "クリストファー・コロンブス",
+    "cardLevel": 6,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "ダブルプレッシャー（2体以上からでなければブロックされない）\n \nイジンからブロックされない。\n \n航海 - アタッカーになったとき、イジン召喚権+1する。",
+    "cardIgyoo": [],
+    "illustraterName": "ナカニシイクシ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

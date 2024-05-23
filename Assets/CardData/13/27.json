@@ -1,0 +1,17 @@
+{
+    "cardID": 27,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "玄宗",
+    "cardLevel": 4,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "イジンが相手の戦場に置かれるたび、自分の山札の上から1枚をガーディアンにして戦場に置く。\n \nこれが戦場にいる間、自分の戦場のガーディアンはパワー6000以上のアタッカーを指定してブロッカーになれない。",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

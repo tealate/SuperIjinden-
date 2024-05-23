@@ -1,0 +1,17 @@
+{
+    "cardID": 28,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "シャルル7世",
+    "cardLevel": 4,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "自分の墓地のイジン1体につき「パワー+500」を得る。\n \n相手の戦場のガーディアンが破壊されるたび、1ドローする。",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

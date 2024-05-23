@@ -1,0 +1,17 @@
+{
+    "cardID": 53,
+    "cardRarity": "R",
+    "cordColor": "Red",
+    "cardName": "チャンピオン",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のイジン1体を指定して発動できる。そのイジンは、このターンの間「イジンにブロックされない」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 2,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,19 @@
+{
+    "cardID": 46,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "武者の蔵",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "これが戦場にある間、自分の戦場のレベル2以下のイジンは「特性：剣術」を得る。\n \nこれが戦場にある間、自分の戦場の「剣術」イジンは「即応」を得る。\n（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

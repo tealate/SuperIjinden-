@@ -1,0 +1,17 @@
+{
+    "cardID": 29,
+    "cardRarity": "R",
+    "cordColor": "Blue",
+    "cardName": "フランシスコ・ザビエル",
+    "cardLevel": 4,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、自分の山札の上から1枚をガーディアンにして戦場に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "実範",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -7,20 +7,46 @@ namespace DataFormat
     [System.Serializable]
     public class CardData
     {
-        public int cardID;
+        public int cardID { get; set; } = 0;
         //カードID、名前と同様
-        public bool isOriginal;
-        //オリジナルカードかどうか
-        public string cardName;
-        public string cardNameKana;
-        //フリガナ
-        public int attackPower;
+        public bool isOffical { get; set; } = false;
 
-        public List<CardColor> cardColor = new List<CardColor>{CardColor.Red};
-        public CardType cardType;
-        public int cardLevel;
-        public int cardCost;
-        public int puressure;
+        public Rarity cardRarity { get; set; } = Rarity.N;
+        //オリジナルカードかどうか
+        public string cardName { get; set; }
+        public string cardNameKana { get; set; }
+        //フリガナ
+        public int attackPower { get; set; }
+        public List<string> cardTokusei { get; set; }
+        public List<CardColor> cardColor { get; set; } = new List<CardColor>{CardColor.Red};
+        public CardType cardType { get; set; }
+
+        public string cardText { get; set; } = "なにもないよ";
+
+        public List<string> cardIgyoo { get; set; }
+        public int cardLevel { get; set; }
+        public int cardCost { get; set; }
+        public string illustraterName { get; set; }
+
+        public CardData Clone()
+        {
+            return new CardData
+            {
+                cardID = cardID,
+                isOffical = isOffical,
+                cardName = cardName,
+                cardNameKana = cardNameKana,
+                attackPower = attackPower,
+                cardTokusei = new List<string>(cardTokusei),
+                cardColor = new List<CardColor>(cardColor),
+                cardType = cardType,
+                cardText = cardText,
+                cardIgyoo = new List<string>(cardIgyoo),
+                cardLevel = cardLevel,
+                cardCost = cardCost,
+                illustraterName = illustraterName
+            };
+        }
     }
     [System.Serializable]
     public class DeckData
@@ -39,6 +65,15 @@ namespace DataFormat
     {
         public int cardNum;
         public List<int> cardPath;
+    }
+
+    public class CardActivePreview
+    {
+        public bool cardType;
+        public bool cardLevel;
+        public bool cardTokusei;
+        public bool cardIgyoo;
+        public bool cardCost;
     }
 
     [System.Serializable]
@@ -72,5 +107,15 @@ namespace DataFormat
         SokuOu,
         Sippitu,
         Koukai
+    }
+    //カードのレアリティ
+    public enum Rarity
+    {
+        C,
+        N,
+        R,
+        SR,
+        SSR,
+        UR
     }
 }

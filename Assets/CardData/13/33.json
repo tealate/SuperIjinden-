@@ -1,0 +1,19 @@
+{
+    "cardID": 33,
+    "cardRarity": "R",
+    "cordColor": "Green",
+    "cardName": "千利休",
+    "cardLevel": 1,
+    "attackPower": 500,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、戦場に赤のイジンがいるなら発動する。イジン召喚権+1する。\n \n自分はマホウ使用に際し、自分の手札をすきなだけ墓地に置いてもよい。墓地に置いた1枚につき、手札のマホウの魔力コストは1減る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

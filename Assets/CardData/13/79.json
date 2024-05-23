@@ -1,0 +1,19 @@
+{
+    "cardID": 79,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "アレッサンドロ・ヴァリニャーノ",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "航海 - アタッカーになったときに発動できる。自分の山札の上から1枚を、裏のまま魔力ゾーンに置く。\n \n 自分の魔力ゾーンのカードが6つ以上の間「ダブルプレッシャー」を得る。\n（2体以上からでなければブロックされない）",
+    "cardIgyoo": [],
+    "illustraterName": "Loce",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

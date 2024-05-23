@@ -1,0 +1,17 @@
+{
+    "cardID": 15,
+    "cardRarity": "R",
+    "cordColor": "Red",
+    "cardName": "中臣鎌足",
+    "cardLevel": 4,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の山札の上から5枚を墓地に置いて発動できる。このターンの間「即応」を得る。\n（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

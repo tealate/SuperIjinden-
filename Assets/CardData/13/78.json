@@ -1,0 +1,21 @@
+{
+    "cardID": 78,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "小野好古",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "戦場に置かれたとき、手札のハイケイ1つを見せて発動できる。1ドローする。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Unknown",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

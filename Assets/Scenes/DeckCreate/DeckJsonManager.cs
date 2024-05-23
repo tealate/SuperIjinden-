@@ -103,7 +103,7 @@ public class DeckJsonManager : MonoBehaviour
         if (File.Exists(deckPath))
         {
             File.Move(deckPath, newDeckPath);
-            ReloadDeckJsonFiles();
+            //ReloadDeckJsonFiles();
             return newDeckName;
         }
         return null;

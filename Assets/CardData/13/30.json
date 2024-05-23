@@ -1,0 +1,17 @@
+{
+    "cardID": 30,
+    "cardRarity": "R",
+    "cordColor": "Blue",
+    "cardName": "チンギス・ハン",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "ダブルプレッシャー（2体以上からでなければブロックされない）\n \n戦場に置かれたとき、魔力ゾーンの裏のカードすべてをガーディアンにして戦場に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

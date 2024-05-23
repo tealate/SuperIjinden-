@@ -1,0 +1,19 @@
+{
+    "cardID": 39,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "ヨハン・ゼバスティアン・バッハ",
+    "cardLevel": 4,
+    "attackPower": 4000,
+    "cardTokusei": [
+        "音楽"
+    ],
+    "cardText": "これが戦場にいる間、戦場のイジンとハイケイは「特性：音楽」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

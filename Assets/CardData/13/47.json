@@ -1,0 +1,19 @@
+{
+    "cardID": 47,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "純白の塔",
+    "cardLevel": 4,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分が3体以上でアタックしたとき、アタッカー1体を指定して発動できる。そのアタッカーは、このターンの間「イジンにブロックされない」を得る。",
+    "cardIgyoo": [
+        "これを手札に戻す。"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

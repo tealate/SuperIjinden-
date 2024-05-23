@@ -1,0 +1,19 @@
+{
+    "cardID": 70,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ビスマルク",
+    "cardLevel": 3,
+    "attackPower": 3000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "ダブルプレッシャー（2体以上からでなければブロックされない）\n \nアタッカーになったとき、自分の戦場のイジン1体を破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

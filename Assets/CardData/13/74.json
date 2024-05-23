@@ -1,0 +1,19 @@
+{
+    "cardID": 74,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "オリバー・クロムウェル",
+    "cardLevel": 4,
+    "attackPower": 3000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "相手の魔力ゾーンの裏のカード1つにつき「パワー+1000」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "よしいつき",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

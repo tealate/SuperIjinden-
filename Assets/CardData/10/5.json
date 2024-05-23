@@ -1,0 +1,19 @@
+{
+    "cardID": 5,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "坂上田村麻呂",
+    "cardLevel": 4,
+    "attackPower": 1000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "ダブルプレッシャー（2体以上からでなければブロックされない）",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

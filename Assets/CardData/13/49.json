@@ -1,0 +1,19 @@
+{
+    "cardID": 49,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "巨大古墳",
+    "cardLevel": 2,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分のスタートフェイズが終了したとき、マリョク配置権+1する。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DataFormat;
 
-//�Q�[�����\�����̑S�f�b�L�̊Ǘ������A���ݑI�𒆂̃f�b�L�Ƒ��f�b�L�̃C���X�^���X��ێ�
+//ゲーム内表示中の全デッキの管理するやつ、現在選択中のデッキと他デッキのインスタンスを保持
 public class DeckInfoManager : MonoBehaviour
 {
     public GameObject deckInst;
@@ -42,5 +42,13 @@ public class DeckInfoManager : MonoBehaviour
         deckList[DeckJsonManager.Instance.DeckDatas.Count - 1].GetComponent<DeckAnim>().deckData = DeckJsonManager.Instance.DeckDatas[DeckJsonManager.Instance.DeckDatas.Count - 1];
         deckList[DeckJsonManager.Instance.DeckDatas.Count - 1].GetComponent<DeckAnim>().SetUp();
         deckList[DeckJsonManager.Instance.DeckDatas.Count - 1].GetComponent<DeckAnim>().Myparant = this;
+    }
+
+    public void ReloadPreview()
+    {
+        for(int i = 0; i < deckList.Count; i++)
+        {
+            deckList[i].GetComponent<DeckAnim>().SetUp();
+        }
     }
 }

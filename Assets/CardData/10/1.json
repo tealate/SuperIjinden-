@@ -1,5 +1,19 @@
 {
     "cardID": 1,
+    "cardRarity": "SR",
+    "cordColor": "Red",
     "cardName": "上杉謙信",
-    "attackPower": 6000
-  }
+    "cardLevel": 6,
+    "attackPower": 6000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "アタッカーになったとき、これのパワー以下のパワーを持つ相手の戦場のイジン1体を破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "ナカニシイクシ",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

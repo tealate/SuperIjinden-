@@ -1,0 +1,17 @@
+{
+    "cardID": 19,
+    "cardRarity": "R",
+    "cordColor": "Red",
+    "cardName": "ガイウス・ユリウス・カエサル",
+    "cardLevel": 7,
+    "attackPower": 6000,
+    "cardTokusei": [],
+    "cardText": "トリプルプレッシャー（3体以上からでなければブロックされない）\n \n戦場に置かれたとき、相手の手札が6枚以上なら発動する。このターンの間「即応」を得る。\n（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [],
+    "illustraterName": "蒼ノ樹",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

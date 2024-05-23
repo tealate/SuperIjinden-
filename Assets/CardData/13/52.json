@@ -1,0 +1,19 @@
+{
+    "cardID": 52,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "バレット",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "自分の戦場のイジン1体と相手の戦場のイジン1体を指定して発動できる。それらのイジンすべてを破壊する。",
+    "cardIgyoo": [
+        "冥府発動"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

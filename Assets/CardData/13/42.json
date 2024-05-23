@@ -1,0 +1,17 @@
+{
+    "cardID": 42,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "空海",
+    "cardLevel": 6,
+    "attackPower": 5000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、自分の戦場のハイケイ1つを指定して発動できる。そのハイケイを手札に戻して、このターンの間「ダブルプレッシャー」を得る。\n （2体以上からでなければブロックされない）",
+    "cardIgyoo": [],
+    "illustraterName": "鹿助",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,19 @@
+{
+    "cardID": 20,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ハンス・アクセル・フォン・フェルセン",
+    "cardLevel": 1,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "ブロッカーになったとき、1ドローする。\n \n相手の戦場の「即応」を持つイジンがアタッカーになったとき、これを起こす。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

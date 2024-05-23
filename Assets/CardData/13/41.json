@@ -1,0 +1,19 @@
+{
+    "cardID": 41,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "フランツ・ペーター・シューベルト",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [
+        "音楽"
+    ],
+    "cardText": "戦場に名前の異なる「音楽」カードが2つ以上ある間、相手は墓地のカードを戦場に置くことができない。",
+    "cardIgyoo": [],
+    "illustraterName": "蒼ノ樹",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

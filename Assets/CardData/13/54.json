@@ -1,0 +1,17 @@
+{
+    "cardID": 54,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ファイナルアタック",
+    "cardLevel": 6,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "次のエンドフェイズが開始したとき、ゲームに敗北する。\n \n自分の戦場のイジンすべてを起こして、追加でバトルする。",
+    "cardIgyoo": [],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 3,
+    "cardType": "Mahou",
+    "isOffical": true,
+    "extraStr": ""
+}

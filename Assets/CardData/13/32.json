@@ -1,0 +1,19 @@
+{
+    "cardID": 32,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "マリー・アントワネット",
+    "cardLevel": 6,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "破壊されたとき、戦場のガーディアンすべてを寝かせる。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "でめこ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

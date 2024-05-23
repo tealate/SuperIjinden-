@@ -1,0 +1,17 @@
+{
+    "cardID": 13,
+    "cardRarity": "R",
+    "cordColor": "Red",
+    "cardName": "北条政子",
+    "cardLevel": 3,
+    "attackPower": 2000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、これのパワー以下のパワーを持つ相手の戦場のイジン1体を破壊する。\n \nこれが戦場にいる間、自分の戦場の「剣術」イジンは「パワー+1000」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

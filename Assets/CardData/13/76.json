@@ -1,0 +1,19 @@
+{
+    "cardID": 76,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "シーボルト",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "自分の墓地の「美術」カード1つにつき「パワー+1000」を得る。\n \nパワー7000以上の間「アタッカーになったとき、これを起こす」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "No2_Hase",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

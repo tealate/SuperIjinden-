@@ -1,0 +1,19 @@
+{
+    "cardID": 8,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "最澄",
+    "cardLevel": 8,
+    "attackPower": 7000,
+    "cardTokusei": [],
+    "cardText": "航海 - アタッカーになったとき、自分の戦場のハイケイ1つを指定して発動できる。そのハイケイを手札に戻す。自分の戦場のイジンは、このターンの間「ダブルプレッシャー」を得る。\n （2体以上からでなければブロックされない）",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "Xion",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

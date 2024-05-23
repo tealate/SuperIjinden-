@@ -1,0 +1,17 @@
+{
+    "cardID": 7,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ジェームズ・バトラー・ヒコック",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "即応（戦場に置かれたターンでもアタッカーになれる）\n \nアタッカーになったとき、相手の戦場のハイケイ1つにつき1ドローする。",
+    "cardIgyoo": [],
+    "illustraterName": "蒼ノ樹",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

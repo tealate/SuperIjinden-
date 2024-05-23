@@ -1,0 +1,17 @@
+{
+    "cardID": 16,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "マルクス・アントニウス",
+    "cardLevel": 4,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の戦場のガーディアン1体を裏のまま魔力ゾーンに置いて発動できる。イジン召喚権+1する。\n \nアタック+2000",
+    "cardIgyoo": [],
+    "illustraterName": "蒼ノ樹",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

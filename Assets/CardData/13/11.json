@@ -1,0 +1,21 @@
+{
+    "cardID": 11,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "直江兼続",
+    "cardLevel": 3,
+    "attackPower": 1000,
+    "cardTokusei": [
+        "剣術"
+    ],
+    "cardText": "これが戦場にいる間、自分の戦場の「剣術」イジンは「アタック+2000」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

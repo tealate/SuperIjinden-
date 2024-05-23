@@ -1,0 +1,17 @@
+{
+    "cardID": 1,
+    "cardRarity": "SR",
+    "cordColor": "Red",
+    "cardName": "織田信長",
+    "cardLevel": 4,
+    "attackPower": 5000,
+    "cardTokusei": [],
+    "cardText": "即応 ダブルプレッシャー\n（戦場に置かれたターンでもアタッカーになれる。2体以上からでなければブロックされない）\n \n相手の戦場のガーディアンが1体以下の間「ダブルプレッシャー」を失い、「特性：剣術」を得る。\n \n自分のエンドフェイズが開始したとき、これが寝ているなら発動する。これを破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "木志田コテツ",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

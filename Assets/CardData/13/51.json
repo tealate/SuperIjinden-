@@ -1,0 +1,17 @@
+{
+    "cardID": 51,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "冨嶽三十六景",
+    "cardLevel": 5,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "特性：美術\n \n自分のメインフェイズが開始したとき、遺業能力を持つ墓地のハイケイ1つを指定して発動できる。そのハイケイを戦場に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

@@ -1,0 +1,21 @@
+{
+    "cardID": 72,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "大江広元",
+    "cardLevel": 2,
+    "attackPower": 1000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "相手の戦場のイジンが破壊されるたび、1ドローする。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "hami",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

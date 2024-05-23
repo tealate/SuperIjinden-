@@ -1,0 +1,17 @@
+{
+    "cardID": 7,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "藤原定家",
+    "cardLevel": 4,
+    "attackPower": 4000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれたとき、自分の戦場のカードすべてを起こす。",
+    "cardIgyoo": [],
+    "illustraterName": "Xion",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

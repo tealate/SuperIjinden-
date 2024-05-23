@@ -1,0 +1,19 @@
+{
+    "cardID": 1,
+    "cardRarity": "SR",
+    "cordColor": "Blue",
+    "cardName": "レオナルド・ダ・ヴィンチ",
+    "cardLevel": 6,
+    "attackPower": 5000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、自分の墓地のレベル6以下のイジン1体か、自分の墓地のレベル5以下のハイケイ1つを指定して発動できる。そのイジンかハイケイを戦場に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "Minamoto・I・I",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

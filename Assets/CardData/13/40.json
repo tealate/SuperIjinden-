@@ -1,0 +1,17 @@
+{
+    "cardID": 40,
+    "cardRarity": "R",
+    "cordColor": "Green",
+    "cardName": "大伴家持",
+    "cardLevel": 5,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれるたび、1ドローする。\n \n自分の戦場のハイケイ1つにつき「パワー+1000」を得る。",
+    "cardIgyoo": [],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

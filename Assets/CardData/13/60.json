@@ -1,0 +1,19 @@
+{
+    "cardID": 60,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "髭切",
+    "cardLevel": 1,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "イジン召喚によってイジンが自分の戦場に置かれる際、魔力ゾーンに置かれているこれを、そのイジンに装備させてもよい。\n \n装備（装備しているカードにルールテキストを加える）: 特性：剣術 アタック+1000",
+    "cardIgyoo": [
+        "復元"
+    ],
+    "illustraterName": "Xion",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

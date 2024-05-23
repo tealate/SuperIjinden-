@@ -1,0 +1,19 @@
+{
+    "cardID": 5,
+    "cardRarity": "SR",
+    "cordColor": "Green",
+    "cardName": "ヴォルフガング・アマデウス・モーツァルト",
+    "cardLevel": 7,
+    "attackPower": 4000,
+    "cardTokusei": [
+        "音楽"
+    ],
+    "cardText": "これが戦場にいる間、相手の戦場の「音楽」イジンと、相手の墓地のカードは能力すべてを失う。この能力は、能力によって失われない。",
+    "cardIgyoo": [],
+    "illustraterName": "Minamoto・I・I",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

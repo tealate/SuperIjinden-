@@ -1,0 +1,17 @@
+{
+    "cardID": 43,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "清少納言",
+    "cardLevel": 6,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の魔力ゾーンのマリョクと同じ色を持つ戦場のイジン1体を指定して発動できる。そのイジンを裏にして魔力ゾーンに置く。\n \n執筆 - ハイケイが戦場に置かれるたび、魔力ゾーンのカード1つを指定して発動できる。そのカードを手札に戻す。",
+    "cardIgyoo": [],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

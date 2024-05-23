@@ -1,0 +1,19 @@
+{
+    "cardID": 50,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "魔除けの社",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "バトル解決に際し、自分の戦場のガーディアンがブロッカーに含まれているなら、パワー4000以下のアタッカーは破壊される。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "Loce",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

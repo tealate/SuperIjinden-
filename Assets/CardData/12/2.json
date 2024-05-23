@@ -1,0 +1,17 @@
+{
+    "cardID": 2,
+    "cardRarity": "C",
+    "cordColor": "Green",
+    "cardName": "卑弥呼",
+    "cardLevel": 1,
+    "attackPower": 500,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、自分の山札の上から1枚を、裏のまま魔力ゾーンに置く。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "日本の大天才デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "G"
+}

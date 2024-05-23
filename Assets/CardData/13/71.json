@@ -1,0 +1,21 @@
+{
+    "cardID": 71,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ミュンツァー",
+    "cardLevel": 1,
+    "attackPower": 1000,
+    "cardTokusei": [
+        ""
+    ],
+    "cardText": "アタッカーになったとき、手札のマホウ1つを見せて発動できる。このターンの間「パワー5000以上のイジンにブロックされない」を得る。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "詩野",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

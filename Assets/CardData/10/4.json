@@ -1,0 +1,17 @@
+{
+    "cardID": 4,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "ヴラド・ツェペシュ",
+    "cardLevel": 3,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "アタッカーになったとき、自分の魔力ゾーンのマリョク1つを裏にして発動できる。パワー2000以下の相手の戦場のイジン1体を破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "蒼ノ樹",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

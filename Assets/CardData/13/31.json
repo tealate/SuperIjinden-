@@ -1,0 +1,19 @@
+{
+    "cardID": 31,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ミケランジェロ",
+    "cardLevel": 5,
+    "attackPower": 4000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、自分の墓地のカード1つをガーディアンにして戦場に置く。",
+    "cardIgyoo": [],
+    "illustraterName": "Minamoto・I・I",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

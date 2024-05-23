@@ -1,0 +1,19 @@
+{
+    "cardID": 12,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "藤原頼通",
+    "cardLevel": 3,
+    "attackPower": 3000,
+    "cardTokusei": [],
+    "cardText": "執筆 - ハイケイが戦場に置かれるたび、そのハイケイのレベル以下のレベルを持つ墓地のマホウ1つを指定して発動できる。それを手札に戻す。",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "蒼ノ樹",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

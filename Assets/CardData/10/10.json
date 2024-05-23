@@ -1,0 +1,19 @@
+{
+    "cardID": 10,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "連なる天守閣",
+    "cardLevel": 3,
+    "attackPower": 0,
+    "cardTokusei": [],
+    "cardText": "これのハイケイ使用に際し、自分の戦場に「剣術」イジンがいれば、これはレベル1になる。\n \nこれが戦場にある間、自分の戦場のイジンは「パワー+1000」を得る。",
+    "cardIgyoo": [
+        "魔力化"
+    ],
+    "illustraterName": "鹿助",
+    "set": "伝説の武将デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "R-"
+}

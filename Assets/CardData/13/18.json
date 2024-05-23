@@ -1,0 +1,17 @@
+{
+    "cardID": 18,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "源頼朝",
+    "cardLevel": 5,
+    "attackPower": 5000,
+    "cardTokusei": [],
+    "cardText": "戦場に置かれたとき、パワー4000以下の相手の戦場のイジン1体を破壊する。",
+    "cardIgyoo": [],
+    "illustraterName": "Namiki",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}

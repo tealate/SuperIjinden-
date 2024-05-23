@@ -1,0 +1,19 @@
+{
+    "cardID": 5,
+    "cardRarity": "C",
+    "cordColor": "Blue",
+    "cardName": "ラファエロ・サンティ",
+    "cardLevel": 3,
+    "attackPower": 3000,
+    "cardTokusei": [
+        "美術"
+    ],
+    "cardText": "戦場に置かれたとき、自分の墓地のイジン1体かハイケイ1つを手札に戻す。",
+    "cardIgyoo": [],
+    "illustraterName": "Smilé",
+    "set": "知と美の革命デッキ",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": "B"
+}

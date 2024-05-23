@@ -1,0 +1,19 @@
+{
+    "cardID": 7,
+    "cardRarity": "C",
+    "cordColor": "Red",
+    "cardName": "マーサ・ジェーン・カナリー",
+    "cardLevel": 1,
+    "attackPower": 1000,
+    "cardTokusei": [],
+    "cardText": "戦場に他の赤のイジンがいる間「即応」を得る。\n（戦場に置かれたターンでもアタッカーになれる）",
+    "cardIgyoo": [
+        "1ドローする。"
+    ],
+    "illustraterName": "堀美芙夕",
+    "set": "ブースター",
+    "cardCost": 0,
+    "cardType": "Ijin",
+    "isOffical": true,
+    "extraStr": ""
+}
