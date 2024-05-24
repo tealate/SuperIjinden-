@@ -132,7 +132,7 @@ public class CardJsonManager : MonoBehaviour
                 }
                 catch (JsonException e)
                 {
-                    Debug.Log("シリアライズに失敗しました: " + e.Message);
+                    Debug.Log("シリアライズに失敗しました: " + i + "," + j + "\n" + e.Message);
                     CardData defaultCard = defaultCardData.Clone();
                     CardDatas[i][j] = defaultCard;
                     CardDatas[i][j].cardColor = new List<CardColor>{(CardColor)Random.Range(0, 2)};
